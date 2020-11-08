@@ -2,7 +2,7 @@
 title: 'My Journey Into Tech'
 subtitle: 'From Zero to Zero, and Why I Would Do It All Again'
 date: '2020-11-08'
----s
+---
 
 Before I begin this lengthy, insane story, let me start by saying that if
 you, the reader, are in a situation that makes obtaining a career in tech
