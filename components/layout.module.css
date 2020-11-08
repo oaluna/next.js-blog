@@ -1,25 +1,39 @@
 .container {
-  max-width: 36rem;
-  padding: 0 1rem;
-  margin: 3rem auto 6rem;
+  max-width:100vw;
+  
+  background-color: #abbabb;
+  
 }
 
 .header {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-image: url(https://images.pexels.com/photos/3688579/pexels-photo-3688579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+
+  background-position-y: 40%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 60vh;
+  margin: 0;
+  padding: 20px;
+ 
 }
 
+
 .headerImage {
-  width: 6rem;
-  height: 6rem;
+  width: 12rem;
+  height: 12rem;
 }
 
 .headerHomeImage {
-  width: 8rem;
-  height: 8rem;
+  width: 12rem;
+  height: 12rem;
 }
 
 .backToHome {
+  font-family: 'Ferrite Core DX Light';
   margin: 3rem 0 0;
+  padding: 1rem;
 }
